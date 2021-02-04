@@ -1,0 +1,6 @@
+framework module ZTOneDemo {
+  umbrella header "ZTOneDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

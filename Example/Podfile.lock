@@ -1,0 +1,16 @@
+PODS:
+  - ZTOneDemo (0.1.0)
+
+DEPENDENCIES:
+  - ZTOneDemo (from `../`)
+
+EXTERNAL SOURCES:
+  ZTOneDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZTOneDemo: 411341edbdcbbd6d14998b6e712c9b8641b3c2f3
+
+PODFILE CHECKSUM: dc054bc0236b960cacb5390c0650baaafe2d64db
+
+COCOAPODS: 1.10.1
